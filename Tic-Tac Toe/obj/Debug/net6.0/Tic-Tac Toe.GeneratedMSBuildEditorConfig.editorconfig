@@ -1,0 +1,33 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Tic-Tac_Toe
+build_property.RootNamespace = Tic-Tac_Toe
+build_property.ProjectDir = C:\Users\vero\source\repos\Tic-Tac Toe\Tic-Tac Toe\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\vero\source\repos\Tic-Tac Toe\Tic-Tac Toe
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/vero/source/repos/Tic-Tac Toe/Tic-Tac Toe/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vero/source/repos/Tic-Tac Toe/Tic-Tac Toe/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vero/source/repos/Tic-Tac Toe/Tic-Tac Toe/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-vrn2mjqfm1
+
+[C:/Users/vero/source/repos/Tic-Tac Toe/Tic-Tac Toe/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-4sghg25lbm
